@@ -18,7 +18,7 @@
         name: "divyabharathi99/petstore"
         tag: latest
         build:
-          path: /var/lib/jenkins/workspace/petstore
+          path: /var/lib/jenkins/workspace/petstore-project
         push: yes
         source: build
 
