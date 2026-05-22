@@ -11,7 +11,7 @@
         registry_url: https://index.docker.io/v1/
         username: "divyabharathi99"
         password: "dckr_pat_jX4xdHPP1bMjkjp2_KnNCzHo7dg"
-"
+
 
     - name: Build and Push Docker image
       community.docker.docker_image:
